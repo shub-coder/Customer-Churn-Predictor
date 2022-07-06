@@ -15,4 +15,4 @@ Tested seven different machine learning models to predict customer churn, includ
 
 Used own random data to predict the output
 
-<img src="https://github.com/shub-coder/Customer-Churn-Predictor/blob/main/prediction.png" width="550" height="300"/> 
+<img src="https://github.com/shub-coder/Customer-Churn-Predictor/blob/main/prediction.png" width="1550" height="300"/> 
